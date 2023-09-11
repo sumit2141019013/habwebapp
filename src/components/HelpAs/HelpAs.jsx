@@ -2,7 +2,7 @@ import React from 'react'
 
 const HelpAs = () => {
   return (
-    <div>HelpAs</div>
+    <div>HelpAas</div>
   )
 }
 
